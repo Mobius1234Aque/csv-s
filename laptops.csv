@@ -1,0 +1,338 @@
+index,brand,id,name,price,size,capacity,processor,storage_type
+0,MICROSOFT,10230520,"MICROSOFT 13"" Surface Pro 8 - Intel® Core™ i5, 256 GB SSD, Graphite",1099,13,256,Intel® Core™ i5,SSD
+1,ACER,10225782,"ACER Swift 3 14"" Laptop - AMD Ryzen 5, 1 TB SSD, Silver",549,14,1024,AMD Ryzen 5,SSD
+2,LENOVO,10207544,"LENOVO IdeaPad 3i 11.6"" Chromebook - Intel® Celeron®, 64 GB eMMC, Black",199,11.6,64,Intel® Celeron®,eMMC
+3,HP,10229545,"HP Pavilion 14-ec0537sa 14"" Laptop - AMD Ryzen 5, 256 GB SSD, Blue",399,14,256,AMD Ryzen 5,SSD
+4,ACER,10227187,"ACER Spin 514 14"" 2 in 1 Chromebook - AMD Ryzen 3, 128 GB eMMC, Silver",399,14,128,AMD Ryzen 3,eMMC
+5,ACER,10226973,"ACER Aspire 3 A314-22 14"" Laptop - AMD Ryzen 3, 128 GB SSD, Silver",299,14,128,AMD Ryzen 3,SSD
+6,HP,10207946,"HP 15s-eq1516sa 15.6"" Laptop - AMD Ryzen 3, 128 GB SSD, Silver",299,15.6,128,AMD Ryzen 3,SSD
+7,DELL,10230558,"DELL Inspiron 15 3511 15.6"" Laptop - Intel® Core™ i5, 256 GB SSD, Silver",549,15.6,256,Intel® Core™ i5,SSD
+8,ASUS,10231078,"ASUS CX15 15.6"" Chromebook - Intel® Celeron™, 64 GB eMMC, Silver",179,15.6,64,Intel® Celeron™,eMMC
+9,LENOVO,10225082,"LENOVO Yoga 6 13.3"" 2 in 1 Laptop - AMD Ryzen 5, 256 GB SSD, Abyss Blue",699,13.3,256,AMD Ryzen 5,SSD
+10,MICROSOFT,10230519,"MICROSOFT 13"" Surface Pro 8 - Intel® Core™ i5, 256 GB SSD, Platinum",1099,13,256,Intel® Core™ i5,SSD
+11,ACER,10227126,"ACER 314 Touch 14"" Chromebook - MediaTek MT8183C, 128 GB eMMC, Silver",229,14,128,MediaTek MT8183C,eMMC
+12,HUAWEI,10236259,"HUAWEI MateBook D 15.6"" Laptop - AMD Ryzen 5, 512 GB SSD, Silver",499,15.6,512,AMD Ryzen 5,SSD
+13,HP,10229557,"HP Pavilion 14-dv0626sa 14"" Laptop - Intel® Core™ i3, 256 GB SSD, Silver",479,14,256,Intel® Core™ i3,SSD
+14,LENOVO,10229598,"LENOVO IdeaPad 3i 15.6"" Chromebook - Intel® Pentium®, 64 GB eMMC, Grey",219,15.6,64,Intel® Pentium®,eMMC
+15,LENOVO,10207536,"LENOVO IdeaPad 3i 14"" Chromebook - Intel® Celeron®, 64 GB eMMC, Grey",249,14,64,Intel® Celeron®,eMMC
+16,ASUS,10209115,"ASUS C423 14"" Chromebook - Intel® Celeron™, 64 GB eMMC, Black & Silver",229,14,64,Intel® Celeron™,eMMC
+17,ASUS,10209121,"ASUS C523 15.6"" Chromebook - Intel® Celeron™, 64 GB eMMC, Silver",299,15.6,64,Intel® Celeron™,eMMC
+18,LENOVO,10223990,"LENOVO IdeaPad 3i 14"" Laptop - Intel® Pentium® Gold, 128 GB SSD, Blue",229,14,128,Intel® Pentium® Gold,SSD
+19,HP,10226734,"HP ENVY x360 Convert 13.3"" 2 in 1 Laptop - Intel® Core™ i5, 256 GB SSD, Silver",849,13.3,256,Intel® Core™ i5,SSD
+20,MICROSOFT,10230850,"MICROSOFT 12.3"" Surface Pro 7+ - Intel® Core™ i5, 128 GB SSD, Platinum",969,12.3,128,Intel® Core™ i5,SSD
+21,LENOVO,10228904,"LENOVO IdeaPad 3i 14"" Laptop - Intel® Core™ i7, 512 GB SSD, Blue",499,14,512,Intel® Core™ i7,SSD
+22,APPLE,10216298,"APPLE MacBook Air 13.3"" (2020) - M1, 256 GB SSD, Space Grey",949,13.3,256,M1,SSD
+23,LENOVO,10223994,"LENOVO IdeaPad 3i 14"" Laptop - Intel® Celeron®, 128 GB SSD, Blue",199,14,128,Intel® Celeron®,SSD
+24,HP,10226593,"HP 15s-eq1542sa 15.6"" Laptop - AMD 3020e, 128 GB SSD, Silver",249,15.6,128,AMD 3020e,SSD
+25,LENOVO,10226931,"LENOVO IdeaPad Flex 3 11.6"" 2 in 1 Chromebook - MediaTek MT8183, 64 GB eMMC, Blue",279,11.6,64,MediaTek MT8183,eMMC
+26,LENOVO,10207516,"LENOVO IdeaPad 3i 11.6"" Chromebook - Intel® Celeron®, 32 GB eMMC, Black",109,11.6,32,Intel® Celeron®,eMMC
+27,HP,10218525,"HP Pavilion 14-dv0603na 14"" Laptop - Intel® Pentium® Gold, 128 GB SSD, Silver",299,14,128,Intel® Pentium® Gold,SSD
+28,HP,10213288,"HP 11a-na0502sa 11.6"" Chromebook - MediaTek MT8183, 32 GB eMMC, White",219,11.6,32,MediaTek MT8183,eMMC
+29,ASUS,10234434,"ASUS VivoBook X515JA 15.6"" Laptop - Intel® Core™ i3, 256 GB SSD, Silver",349,15.6,256,Intel® Core™ i3,SSD
+30,ACER,10212836,"ACER Aspire 5 A514-54 14"" Laptop - Intel® Core™ i5, 512 GB SSD, Silver",449,14,512,Intel® Core™ i5,SSD
+31,APPLE,10216304,"APPLE MacBook Pro 13.3"" (2020) - M1, 256 GB SSD, Space Grey",1149,13.3,256,M1,SSD
+32,ASUS,10234422,"ASUS VivoBook X515JA 15.6"" Laptop - Intel® Core™ i5, 512 GB SSD, Silver",449,15.6,512,Intel® Core™ i5,SSD
+33,HP,10218530,"HP Pavilion 14-dv0607na 14"" Laptop - Intel® Pentium® Gold, 128 GB SSD, White & Rose Gold",399,14,128,Intel® Pentium® Gold,SSD
+34,LENOVO,10225061,"LENOVO IdeaPad Flex 5 15"" 2 in 1 Laptop - AMD Ryzen 5, 256 GB SSD, Grey",499,15,256,AMD Ryzen 5,SSD
+35,ASUS,10227109,"ASUS E210MA 11.6"" Laptop - Intel® Celeron®, 64 GB eMMC, Blue",149,11.6,64,Intel® Celeron®,eMMC
+36,SAMSUNG,10225755,"SAMSUNG Galaxy Book 15.6"" Laptop - Intel® Core™ i5, 256 GB SSD, Mystic Silver",549,15.6,256,Intel® Core™ i5,SSD
+37,HP,10207665,"HP 14-na503sa 14"" Chromebook - Intel® Celeron®, 64 GB eMMC, White",279,14,64,Intel® Celeron®,eMMC
+38,APPLE,10216322,"APPLE MacBook Pro 14"" (2021) - M1 Pro, 1 TB SSD, Silver",2155,14,1024,M1 Pro,SSD
+39,HP,10222239,"HP Pavilion x360 14"" 2 in 1 Laptop - Intel® Core™ i7, 512 GB SSD, Silver",899,14,512,Intel® Core™ i7,SSD
+40,ACER,10226972,"ACER Aspire 3 15.6"" Laptop - Intel® Core™ i3, 128 GB SSD, Silver",319,15.6,128,Intel® Core™ i3,SSD
+41,ASUS,10227106,"ASUS E410MA 14"" Laptop - Intel® Celeron®, 64 GB eMMC, Blue",179,14,64,Intel® Celeron®,eMMC
+42,LENOVO,10226945,"LENOVO IdeaPad 3 14"" Chromebook - MediaTek MT8183, 64 GB eMMC, Blue",159,14,64,MediaTek MT8183,eMMC
+43,DELL,10226687,"DELL Inspiron 15 3502 15.6"" Laptop - Intel® Pentium®, 128 GB SSD, Black",309,15.6,128,Intel® Pentium®,SSD
+44,LENOVO,10219058,"LENOVO IdeaPad 1i 14"" Laptop - Intel® Celeron™, 64 GB eMMC, Blue",159,14,64,Intel® Celeron™,eMMC
+45,APPLE,10216305,"APPLE MacBook Pro 13.3"" (2020) - M1, 512 GB SSD, Space Grey",1319,13.3,512,M1,SSD
+46,HP,10225093,"HP Stream 14s-dq0504sa 14"" Laptop - Intel® Celeron®, 64 GB eMMC, Black",259,14,64,Intel® Celeron®,eMMC
+47,ACER,10212861,"ACER Aspire 5 A514-54 14"" Laptop - Intel® Core™ i3, 128 GB SSD, Silver",299,14,128,Intel® Core™ i3,SSD
+48,ACER,10226985,"ACER Aspire 3 A314-22 14"" Laptop - AMD Ryzen 3, 128 GB SSD, Silver",299,14,128,AMD Ryzen 3,SSD
+49,APPLE,10216316,"APPLE MacBook Pro 16"" (2021) - M1 Pro, 512 GB SSD, Silver",2234.98,16,512,M1 Pro,SSD
+50,ACER,10224404,"ACER Aspire 5 A515-56G 15.6"" Laptop - Intel® Core™ i5, 512 GB SSD, Silver",549,15.6,512,Intel® Core™ i5,SSD
+51,ACER,10212831,"ACER Aspire 5 A514-54 14"" Laptop - Intel® Core™ i7, 1 TB SSD, Silver",599,14,1024,Intel® Core™ i7,SSD
+52,HUAWEI,10230118,"HUAWEI MateBook D 15.6"" Laptop - Intel® Core™ i5, 512 GB SSD, Grey",499,15.6,512,Intel® Core™ i5,SSD
+53,LENOVO,10225073,"LENOVO Yoga 7i 15.6"" 2 in 1 Laptop - Intel® Core™ i7, 1 TB SSD, Slate Grey",999,15.6,1024,Intel® Core™ i7,SSD
+54,HP,10229545,"HP Pavilion 14-ec0537sa 14"" Laptop - AMD Ryzen 5, 256 GB SSD, Blue",399,14,256,AMD Ryzen 5,SSD
+55,APPLE,10216320,"APPLE MacBook Pro 14"" (2021) - M1 Pro, 1 TB SSD, Space Grey",2155,14,1024,M1 Pro,SSD
+56,HP,10224978,"HP ENVY 17-ch0500sa 17.3"" Laptop - Intel® Core™ i7, 1 TB SSD, Silver",1149,17.3,1024,Intel® Core™ i7,SSD
+57,ASUS,10230044,"ASUS E510MA 15.6"" Laptop - Intel® Celeron®, 64 GB eMMC, Black",199,15.6,64,Intel® Celeron®,eMMC
+58,HP,10212879,"HP Pavilion 14-dv0511sa 14"" Laptop - Intel® Core™ i3, 256 GB SSD, Silver",479,14,256,Intel® Core™ i3,SSD
+59,LENOVO,10225085,"LENOVO Yoga Slim 7i Pro 14"" Laptop - Intel® Core™ i7, 512 GB SSD, Grey",799,14,512,Intel® Core™ i7,SSD
+60,ASUS,10224688,"ASUS ZenBook Duo UX482EA 14"" Laptop - Intel® Core™ i7, 512 GB SSD, Blue",1199,14,512,Intel® Core™ i7,SSD
+61,ASUS,10234424,"ASUS VivoBook X515JA 15.6"" Laptop - Intel® Core™ i7, 512 GB SSD, Silver",579,15.6,512,Intel® Core™ i7,SSD
+62,HP,10226009,"HP Pavilion 14-dv0609sa 14"" Laptop - Intel® Pentium® Gold, 128 GB SSD, Gold",299,14,128,Intel® Pentium® Gold,SSD
+63,HP,10222240,"HP Pavilion x360 14-dy0517sa 14"" 2 in 1 Laptop - Intel® Core™ i5, 256 GB SSD, Silver",549,14,256,Intel® Core™ i5,SSD
+64,HP,10229553,"HP Pavilion 14-dv1629sa 14"" Laptop - Intel® Core™ i5, 512 GB SSD, Silver",489,14,512,Intel® Core™ i5,SSD
+65,HP,10218194,"HP Pavilion 14-dv0598sa 14"" Laptop - Intel® Core™ i3, 256 GB SSD, White & Rose Gold",479,14,256,Intel® Core™ i3,SSD
+66,APPLE,10216306,"APPLE MacBook Pro 13.3"" (2020) - M1, 256 GB SSD, Silver",1149,13.3,256,M1,SSD
+67,DELL,10226700,"DELL Inspiron 16 Plus 7610 16"" Laptop - Intel® Core™ i7, 512 GB SSD, Blue",1099,16,512,Intel® Core™ i7,SSD
+68,ASUS,10226171,"ASUS E510MA 15.6"" Laptop - Intel® Celeron®, 128 GB eMMC, Black",239,15.6,128,Intel® Celeron®,eMMC
+69,ACER,10229951,"ACER 515 15.6"" Chromebook & Mouse Bundle - Intel® Pentium®, 128 GB SSD, Grey",399,15.6,128,Intel® Pentium®,SSD
+70,ACER,10227130,"ACER 314 14"" Chromebook - MediaTek MT8183C, 64 GB eMMC, Silver",179,14,64,MediaTek MT8183C,eMMC
+71,HP,10208592,"HP 14a-na0510sa 14"" Chromebook - Intel® Pentium® Silver, 128 GB eMMC, White",249,14,128,Intel® Pentium® Silver,eMMC
+72,DELL,10221963,"DELL XPS 13 9305 13.3"" Laptop - Intel® Core™ i5, 256 GB SSD, Silver",749,13.3,256,Intel® Core™ i5,SSD
+73,HP,10222231,"HP 14s-dq2512na 14"" Laptop - Intel® Core™ i5, 256 GB SSD, Silver",429,14,256,Intel® Core™ i5,SSD
+74,APPLE,10216307,"APPLE MacBook Pro 13.3"" (2020) - M1, 512 GB SSD, Silver",1329.97,13.3,512,M1,SSD
+75,HP,10212880,"HP Pavilion 14-dv0521sa 14"" Laptop - Intel® Core™ i5, 512 GB SSD, Silver",599,14,512,Intel® Core™ i5,SSD
+76,APPLE,10216321,"APPLE MacBook Pro 14"" (2021) - M1 Pro, 512 GB SSD, Silver",1763,14,512,M1 Pro,SSD
+77,HP,10222235,"HP 14s-dq2514na 14"" Laptop - Intel® Core i7, 512 GB SSD, Silver",549,14,512,Intel® Core i7,SSD
+78,DELL,10230731,"DELL Inspiron 14 5415 14"" Laptop - AMD Ryzen 5, 256 GB SSD, Silver",469,14,256,AMD Ryzen 5,SSD
+79,ACER,10225772,"ACER Spin 1 14"" 2 in 1 Laptop - Intel® Pentium® Silver, 128 GB SSD, Silver",429,14,128,Intel® Pentium® Silver,SSD
+80,ASUS,10230027,"ASUS VivoBook M515UA 15.6"" Laptop - AMD Ryzen 5, 256 GB SSD, Silver",429,15.6,256,AMD Ryzen 5,SSD
+81,HP,10234104,"HP 17-cn0500sa 17.3"" Laptop - Intel® Core™ i3, 512 GB SSD, Black",549,17.3,512,Intel® Core™ i3,SSD
+82,MICROSOFT,10214686,"MICROSOFT 12.5"" Surface Laptop Go - Intel® Core™ i5, 64 GB eMMC, Platinum",449,12.5,64,Intel® Core™ i5,eMMC
+83,HP,10226929,"HP x360 14b-cb0500sa 14"" 2 in 1 Chromebook - Intel® Pentium® Silver, 64 GB eMMC, Silver",399,14,64,Intel® Pentium® Silver,eMMC
+84,SAMSUNG,10225086,"SAMSUNG Galaxy Book Pro 360 15.6"" 2 in 1 Laptop - Intel® Core™ i7, 512 GB SSD, Mystic Navy",1099,15.6,512,Intel® Core™ i7,SSD
+85,HP,10227375,"HP ENVY x360 Convert 15-eu0500na 15.6"" 2 in 1 Laptop - AMD Ryzen 5, 512 GB SSD, Black",749,15.6,512,AMD Ryzen 5,SSD
+86,ACER,10226984,"ACER Aspire 3 14"" Laptop - AMD Athlon, 128 GB SSD, Silver",249,14,128,AMD Athlon,SSD
+87,ASUS,10230150,"ASUS VivoBook X705MA 17.3"" Laptop - Intel® Pentium™ Silver, 1 TB HDD, Grey",329,17.3,1024,Intel® Pentium™ Silver,HDD
+88,ACER,10226817,"ACER Aspire 5 A515-56G 15.6"" Laptop - Intel® Core™ i7, 512 GB SSD, Silver",699,15.6,512,Intel® Core™ i7,SSD
+89,DELL,10229443,"DELL Inspiron 14 7415 14"" 2 in 1 Laptop - AMD Ryzen 7, 512 GB SSD, Blue",769,14,512,AMD Ryzen 7,SSD
+90,MICROSOFT,10214688,"MICROSOFT 12.5"" Surface Laptop Go - Intel® Core™ i5, 128 GB SSD, Platinum",549,12.5,128,Intel® Core™ i5,SSD
+91,LENOVO,10231482,"LENOVO IdeaPad Duet 5 13.3"" 2 in 1 Chromebook - Qualcomm Snapdragon, 256 GB eMMC, Blue",549,13.3,256,Qualcomm Snapdragon,eMMC
+92,HP,10217339,"HP Spectre x360 13.5"" 2 in 1 Laptop - Intel® Core™ i7, 512 GB SSD, Black",1199,13.5,512,Intel® Core™ i7,SSD
+93,LENOVO,10227193,"LENOVO IdeaPad Flex 5i 13.3"" 2 in 1 Chromebook - Intel® Core™ i3, 128 GB SSD, Grey",429,13.3,128,Intel® Core™ i3,SSD
+94,ACER,10226973,"ACER Aspire 3 A314-22 14"" Laptop - AMD Ryzen 3, 128 GB SSD, Silver",299,14,128,AMD Ryzen 3,SSD
+95,ASUS,10234426,"ASUS ZenBook 13 UX325EA 13.3"" Laptop - Intel® Core™ i5, 512 GB SSD, Grey",899,13.3,512,Intel® Core™ i5,SSD
+96,ACER,10230199,"ACER Swift 3 14"" Laptop - AMD Ryzen 7, 1 TB SSD, Silver",799,14,1024,AMD Ryzen 7,SSD
+97,LENOVO,10221285,"LENOVO IdeaPad Duet 3i 10.3"" 2 in 1 Laptop - Intel® Celeron®, 64 GB eMMC, Grey",299,10.3,64,Intel® Celeron®,eMMC
+98,ACER,10212824,"ACER Aspire 5 A514-54 14"" Laptop - Intel® Core™ i3, 256 GB SSD, Silver",349,14,256,Intel® Core™ i3,SSD
+99,LENOVO,10227176,"LENOVO IdeaPad 5i 14"" Chromebook - Intel® Core™ i3, 256 GB SSD, Grey",349,14,256,Intel® Core™ i3,SSD
+100,DELL,10217072,"DELL XPS 13 9310 13.4"" Laptop - Intel® Core™ i7, 512 GB SSD, Silver",1299,13.4,512,Intel® Core™ i7,SSD
+101,LENOVO,10225027,"LENOVO IdeaPad 3i 17.3"" Laptop - Intel® Celeron®, 128 GB SSD, Blue",269,17.3,128,Intel® Celeron®,SSD
+102,HP,10222234,"HP 14s-dq2510na 14"" Laptop - Intel® Core™ i3, 256 GB SSD, Silver",349,14,256,Intel® Core™ i3,SSD
+103,LENOVO,10225072,"LENOVO IdeaPad 3 15.6"" Laptop - AMD Athlon Gold, 128 GB SSD, Black",229,15.6,128,AMD Athlon Gold,SSD
+104,HP,10222236,"HP Pavilion x360 14-dy0505na 14"" 2 in 1 Laptop - Intel® Core™ i3, 256 GB SSD, Silver",449,14,256,Intel® Core™ i3,SSD
+105,HP,10222268,"HP 14s-dq2507na 14"" Laptop - Intel® Core™ i3, 128 GB SSD, Silver",329,14,128,Intel® Core™ i3,SSD
+106,HP,10234106,"HP 17-cn0504sa 17.3"" Laptop - Intel® Core™ i5, 512 GB SSD, Black",699,17.3,512,Intel® Core™ i5,SSD
+107,DELL,10217073,"DELL XPS 13 9310 13.4"" Laptop - Intel® Core™ i7, 1 TB SSD, Silver",1699,13.4,1024,Intel® Core™ i7,SSD
+108,DELL,10226160,"DELL XPS 15 9510 15.6"" Laptop - Intel® Core™ i7, 1 TB SSD, Silver",1849,15.6,1024,Intel® Core™ i7,SSD
+109,APPLE,10216301,"APPLE MacBook Air 13.3"" (2020) - M1, 512 GB SSD, Silver",1099.97,13.3,512,M1,SSD
+110,DELL,10230706,"DELL Inspiron 15 3000 15.6"" Laptop - Intel® Core™ i3, 256 GB SSD, Black",479,15.6,256,Intel® Core™ i3,SSD
+111,ASUS,10224714,"ASUS VivoBook K513E 15.6"" Laptop - Intel® Core™ i5, 512 GB SSD, Black",799,15.6,512,Intel® Core™ i5,SSD
+112,DELL,10234018,"DELL Inspiron 15 3515 15.6"" Laptop - AMD Ryzen 5, 256 GB SSD, Black",499,15.6,256,AMD Ryzen 5,SSD
+113,LENOVO,10219055,"LENOVO IdeaPad Slim 1i 11.6"" Laptop - Intel® Celeron™, 64 GB eMMC, Grey",119,11.6,64,Intel® Celeron™,eMMC
+114,LENOVO,10223268,"LENOVO IdeaPad Flex 3i 11.6"" 2 in 1 Laptop - Intel® Celeron®, 64 GB eMMC, Blue",299,11.6,64,Intel® Celeron®,eMMC
+115,ACER,10225780,"ACER Swift 3 14"" Laptop - AMD Ryzen 5, 1 TB SSD, Blue",599,14,1024,AMD Ryzen 5,SSD
+116,ACER,10219582,"ACER Spin 513 13.3"" 2 in 1 Chromebook - Qualcomm SC7180, 64 GB eMMC, Silver",399,13.3,64,Qualcomm SC7180,eMMC
+117,ASUS,10226062,"ASUS E410MA 14"" Laptop - Intel® Celeron®, 128 GB eMMC, Blue",229,14,128,Intel® Celeron®,eMMC
+118,LG,10233473,"LG GRAM 17Z90P 17"" Laptop - Intel® Core™ i7, 512 GB SSD, Black",1099,17,512,Intel® Core™ i7,SSD
+119,HP,10227115,"HP x360 14c-cc0505sa 14"" 2 in 1 Chromebook - Intel® Core™ i5, 256 GB SSD, Silver",599,14,256,Intel® Core™ i5,SSD
+120,HP,10229357,"HP ENVY x360 Convert 15.6"" 2 in 1 Laptop - Intel® Core™ i7, 512 GB SSD, Silver",899,15.6,512,Intel® Core™ i7,SSD
+121,ASUS,10224567,"ASUS ZenBook UX425EA 14"" Laptop - Intel® Core™ i3, 256 GB SSD, Grey",519,14,256,Intel® Core™ i3,SSD
+122,HP,10200681,"HP x360 12b-ca0500na 12"" 2 in 1 Chromebook - Intel® Celeron®, 64 GB eMMC, Silver",279,12,64,Intel® Celeron®,eMMC
+123,HP,10218522,"HP ENVY 13-ba1565sa 13.3"" Laptop - Intel® Core™ i7, 1 TB SSD, Silver",999,13.3,1024,Intel® Core™ i7,SSD
+124,LENOVO,10225136,"LENOVO IdeaPad 3i 17.3"" Laptop - Intel® Pentium® Gold, 128 GB SSD, Blue",319,17.3,128,Intel® Pentium® Gold,SSD
+125,ASUS,10224576,"ASUS VivoBook F515EA 15.6"" Laptop - Intel® Core™ i3, 256 GB SSD, Grey",379,15.6,256,Intel® Core™ i3,SSD
+126,LENOVO,10226951,"LENOVO IdeaPad Flex 3 11.6"" 2 in 1 Chromebook - MediaTek MT8183, 64 GB eMMC, Grey",279,11.6,64,MediaTek MT8183,eMMC
+127,APPLE,10216319,"APPLE MacBook Pro 14"" (2021) - M1 Pro, 512 GB SSD, Space Grey",1735,14,512,M1 Pro,SSD
+128,LG,10233470,"LG GRAM 16Z90P 16"" Laptop - Intel® Core™ i7, 512 GB SSD, Black",999,16,512,Intel® Core™ i7,SSD
+129,LENOVO,10225055,"LENOVO Yoga 7i 15.6"" 2 in 1 Laptop - Intel® Core™ i5, 512 GB SSD, Slate Grey",849,15.6,512,Intel® Core™ i5,SSD
+130,LENOVO,10227179,"LENOVO IdeaPad Flex 5i 13.3"" 2 in 1 Chromebook - Intel® Core™ i5, 256 GB SSD, Blue",549,13.3,256,Intel® Core™ i5,SSD
+131,LENOVO,10219056,"LENOVO IdeaPad Slim 1i 11.6"" Laptop - Intel® Celeron™, 64 GB eMMC, Blue",119,11.6,64,Intel® Celeron™,eMMC
+132,HP,10222237,"HP Pavilion 15-eh0525na 15.6"" Laptop - AMD Athlon, 128 GB SSD, Blue",299,15.6,128,AMD Athlon,SSD
+133,APPLE,10216303,"APPLE MacBook Air 13.3"" (2020) - M1, 512 GB SSD, Gold",1119.97,13.3,512,M1,SSD
+134,HP,10222233,"HP ENVY 14-eb0505na 14"" Laptop - Intel® Core™ i5, 512 GB SSD, Silver",799,14,512,Intel® Core™ i5,SSD
+135,ACER,10227085,"ACER Swift 3 14"" Laptop - AMD Ryzen 3, 256 GB SSD, Silver",429,14,256,AMD Ryzen 3,SSD
+136,LENOVO,10225064,"LENOVO IdeaPad 5i Pro 14"" Laptop - Intel® Core™ i5, 512 GB SSD, Grey",699,14,512,Intel® Core™ i5,SSD
+137,ACER,10226554,"ACER Spin 3 13.3"" 2 in 1 Laptop - Intel® Core™ i5, 512 GB SSD, Silver",799,13.3,512,Intel® Core™ i5,SSD
+138,LENOVO,10224402,"LENOVO IdeaPad 3i 14"" Laptop - Intel® Core™ i3, 256 GB SSD, Blue",399,14,256,Intel® Core™ i3,SSD
+139,MICROSOFT,10221347,"MICROSOFT 13.5"" Surface Laptop 4 - AMD Ryzen 5, 256 GB SSD, Platinum",899,13.5,256,AMD Ryzen 5,SSD
+140,ASUS,10213255,"ASUS Zenbook S UX393 13.9"" Laptop - Intel® Core™ i7, 1 TB SSD, Black",1099,13.9,1024,Intel® Core™ i7,SSD
+141,ACER,10226666,"ACER Swift 3 16.1"" Laptop - Intel® Core™ i7, 1 TB SSD, Grey",749,16.1,1024,Intel® Core™ i7,SSD
+142,SAMSUNG,10236042,"SAMSUNG Galaxy Book2 Pro 360 15.6"" 2 in 1 Laptop - Intel® Core™ i7, 512 GB SSD, Silver",1349,15.6,512,Intel® Core™ i7,SSD
+143,ASUS,10221791,"ASUS ZenBook Pro Duo UX582 15.6"" Laptop - Intel® Core™ i9, 1 TB SSD, Blue",2699,15.6,1024,Intel® Core™ i9,SSD
+144,HP,10217333,"HP Spectre x360 14-ea0519na 13.5"" 2 in 1 Laptop - Intel® Core™ i5, 512 GB SSD, Black",999,13.5,512,Intel® Core™ i5,SSD
+145,ACER,10226581,"ACER Aspire 1 14"" Laptop - Intel® Celeron™, 128 GB eMMC, Silver",269,14,128,Intel® Celeron™,eMMC
+146,HP,10226689,"HP ENVY x360 Convert 13.3"" 2 in 1 Laptop - Intel® Core™ i7, 512 GB SSD, Silver",999,13.3,512,Intel® Core™ i7,SSD
+147,ACER,10229948,"ACER 515 15.6"" Chromebook & Mouse Bundle - Intel® Core™ i3, 128 GB SSD, Grey",499,15.6,128,Intel® Core™ i3,SSD
+148,HUAWEI,10233990,"HUAWEI MateBook 14S 14.2"" Laptop - Intel® Core™ i7, 1 TB SSD, Grey",999,14.2,1024,Intel® Core™ i7,SSD
+149,APPLE,10216314,"APPLE MacBook Pro 16"" (2021) - M1 Pro, 1 TB SSD, Space Grey",2425,16,1024,M1 Pro,SSD
+150,ASUS,10230144,"ASUS ZenBook 13 UX325EA 13.3"" Laptop - Intel® Core™ i7, 512 GB SSD, Grey",829,13.3,512,Intel® Core™ i7,SSD
+151,LENOVO,10227170,"LENOVO IdeaPad 5i 14"" Chromebook - Intel® Core™ i5, 256 GB SSD, Gold",449,14,256,Intel® Core™ i5,SSD
+152,MICROSOFT,10230518,"MICROSOFT 13"" Surface Pro 8 - Intel® Core™ i5, 128 GB SSD, Platinum",999,13,128,Intel® Core™ i5,SSD
+153,LENOVO,10211769,"LENOVO IdeaPad Duet 10.1"" 2 in 1 Chromebook - MediaTek P60T, 128 GB eMCP, Blue & Grey",299,10.1,128,MediaTek P60T,eMCP
+154,DELL,10234000,"DELL Inspiron 15 3515 15.6"" Laptop - AMD Ryzen 7, 512 GB SSD, Silver",629,15.6,512,AMD Ryzen 7,SSD
+155,MICROSOFT,10214691,"MICROSOFT 12.5"" Surface Laptop Go - Intel® Core™ i5, 256 GB SSD, Platinum",699,12.5,256,Intel® Core™ i5,SSD
+156,DELL,10226172,"DELL XPS 15 9510 15.6"" Laptop - Intel® Core™ i7, 1 TB SSD, Silver",1899,15.6,1024,Intel® Core™ i7,SSD
+157,LENOVO,10207672,"LENOVO IdeaPad Duet 10.1"" 2 in 1 Chromebook - MediaTek P60T, 64 GB eMCP, Blue & Grey",279,10.1,64,MediaTek P60T,eMCP
+158,APPLE,10216313,"APPLE MacBook Pro 16"" (2021) - M1 Pro, 512 GB SSD, Space Grey",2234.98,16,512,M1 Pro,SSD
+159,LG,10233472,"LG GRAM 17Z90P 17"" Laptop - Intel® Core™ i5, 512 GB SSD, Silver",949,17,512,Intel® Core™ i5,SSD
+160,LENOVO,10225057,"LENOVO Yoga 6 13.3"" 2 in 1 Laptop - AMD Ryzen 7, 512 GB SSD, Abyss Blue",799,13.3,512,AMD Ryzen 7,SSD
+161,ASUS,10230154,"ASUS Zenbook Flip UX363EA 13.3"" 2 in 1 Laptop - Intel® Core™ i7, 1 TB SSD, Grey",1029,13.3,1024,Intel® Core™ i7,SSD
+162,ASUS,10225142,"ASUS VivoBook F415 14"" Laptop - Intel® Pentium® Gold, 128 GB SSD, Silver",279,14,128,Intel® Pentium® Gold,SSD
+163,ASUS,10230152,"ASUS Zenbook Flip UX363EA 13.3"" 2 in 1 Laptop - Intel® Core™ i5, 512 GB SSD, Grey",699,13.3,512,Intel® Core™ i5,SSD
+164,HP,10212881,"HP Pavilion 14-dv0564sa 14"" Laptop - Intel® Core™ i7, 512 GB SSD, Silver",899,14,512,Intel® Core™ i7,SSD
+165,ACER,10226820,"ACER Spin 1 14"" 2 in 1 Laptop - Intel® Pentium® Silver, 256 GB SSD, Silver",499,14,256,Intel® Pentium® Silver,SSD
+166,ACER,10227224,"ACER Spin 514 14"" 2 in 1 Chromebook - AMD Ryzen 5, 128 GB eMMC, Silver",449,14,128,AMD Ryzen 5,eMMC
+167,APPLE,10216317,"APPLE MacBook Pro 16"" (2021) - M1 Pro, 1 TB SSD, Silver",2595,16,1024,M1 Pro,SSD
+168,HP,10222266,"HP 14s-dq2502na 14"" Laptop - Intel® Pentium® Gold, 128 GB SSD, Silver",279,14,128,Intel® Pentium® Gold,SSD
+169,MICROSOFT,10234254,"MICROSOFT 14.4"" Surface Laptop Studio - Intel® Core™ i7, 512 GB SSD, Platinum",1899,14.4,512,Intel® Core™ i7,SSD
+170,ASUS,10224577,"ASUS VivoBook K553 15.6"" Laptop - Intel® Core™ i5, 512 GB SSD, Silver",799,15.6,512,Intel® Core™ i5,SSD
+171,MICROSOFT,10230522,"MICROSOFT 13"" Surface Pro 8 - Intel® Core™ i7, 256 GB SSD, Graphite",1499,13,256,Intel® Core™ i7,SSD
+172,HP,10238582,"HP 15s-eq1048na 15.6"" Laptop - AMD Ryzen 7, 512 GB SSD, Silver",699,15.6,512,AMD Ryzen 7,SSD
+173,ACER,10226566,"ACER Spin 3 13.3"" 2 in 1 Laptop - Intel® Core™ i7, 512 GB SSD, Silver",899,13.3,512,Intel® Core™ i7,SSD
+174,LENOVO,10219057,"LENOVO IdeaPad 1i 14"" Laptop - Intel® Celeron™, 64 GB eMMC, Grey",159,14,64,Intel® Celeron™,eMMC
+175,ACER,10219573,"ACER Spin 513 LTE 13.3"" 2 in 1 Chromebook - Qualcomm SC7180, 128 GB eMMC, Blue",499,13.3,128,Qualcomm SC7180,eMMC
+176,ACER,10227155,"ACER 315 15.6"" Chromebook - Intel® Celeron®, 64 GB eMMC, Blue",299,15.6,64,Intel® Celeron®,eMMC
+177,HP,10234085,"HP ENVY x360 Convert 15.6"" 2 in 1 Laptop - Intel® Core™ i7, 512 GB SSD, Silver",1049,15.6,512,Intel® Core™ i7,SSD
+178,LENOVO,10225075,"LENOVO Yoga 7 14"" Laptop - AMD Ryzen 5, 256 GB SSD, Slate Grey",799,14,256,AMD Ryzen 5,SSD
+179,HP,10222267,"HP Pavilion x360 14-dy0502sa 14"" 2 in 1 Laptop - Intel® Pentium™ Gold, 128 GB SSD, Silver",419,14,128,Intel® Pentium™ Gold,SSD
+180,HUAWEI,10236036,"HUAWEI MateBook D 15.6"" Laptop - Intel® Core™ i7, 512 GB SSD, Grey",699,15.6,512,Intel® Core™ i7,SSD
+181,MICROSOFT,10221346,"MICROSOFT 15"" Surface Laptop 4 - AMD Ryzen 7, 256 GB SSD, Platinum",1099,15,256,AMD Ryzen 7,SSD
+182,LENOVO,10225089,"LENOVO IdeaPad 5i Pro 16"" Laptop - Intel® Core™ i5, 512 GB SSD, Grey",799,16,512,Intel® Core™ i5,SSD
+183,HP,10218526,"HP Pavilion 14-dv0595sa 14"" Laptop - Intel® Core™ i3, 256 GB SSD, Gold",479,14,256,Intel® Core™ i3,SSD
+184,DELL,10230197,"DELL Inspiron 14 5415 14"" Laptop - AMD Ryzen 7, 512 GB SSD, Silver",629,14,512,AMD Ryzen 7,SSD
+185,HP,10226935,"HP x360 14c-cc0500sa 14"" 2 in 1 Chromebook - Intel® Core i3, 128 GB SSD, Silver",429,14,128,Intel® Core i3,SSD
+186,HP,10226032,"HP ENVY 15-ep1503na 15.6"" Laptop - Intel® Core™ i7, 512 GB SSD, Silver",1399,15.6,512,Intel® Core™ i7,SSD
+187,MICROSOFT,10221359,"MICROSOFT 15"" Surface Laptop 4 - Intel® Core™ i7, 512 GB SSD, Matte Black",1529,15,512,Intel® Core™ i7,SSD
+188,MICROSOFT,10230524,"MICROSOFT 13"" Surface Pro 8 - Intel® Core™ i7, 512 GB SSD, Graphite",1779,13,512,Intel® Core™ i7,SSD
+189,HP,10218518,"HP Spectre x360 13.3"" 2 in 1 Laptop - Intel® Core™ i7, 512 GB SSD, Black",1399,13.3,512,Intel® Core™ i7,SSD
+190,ASUS,10230194,"ASUS Flip CM3200FM 12"" 2 in 1 Chromebook - MediaTek™ Processor, 64 GB eMMC, Grey",279,12,64,MediaTek™ Processor,eMMC
+191,ASUS,10230046,"ASUS VivoBook Pro M3500QC 15.6"" Laptop - AMD Ryzen 9, 1 TB SSD, Blue",999,15.6,1024,AMD Ryzen 9,SSD
+192,DELL,10223283,"DELL XPS 13 9305 13.3"" Laptop - Intel® Core™ i7, 512 GB SSD, Silver",859,13.3,512,Intel® Core™ i7,SSD
+193,ACER,10224403,"ACER Aspire 3 15.6"" Laptop - Intel® Core™ i5, 256 GB SSD, Black",499,15.6,256,Intel® Core™ i5,SSD
+194,LENOVO,10229546,"LENOVO IdeaPad 3 14"" Chromebook - MediaTek MT8183, 64 GB eMMC, Grey",249,14,64,MediaTek MT8183,eMMC
+195,LENOVO,10225083,"LENOVO IdeaPad Flex 5i 14"" 2 in 1 Laptop - Intel® Core™ i5, 256 GB SSD, Blue",649,14,256,Intel® Core™ i5,SSD
+196,DELL,10218229,"DELL XPS 13 13.4"" 2 in 1 Laptop - Intel® Core™ i7, 512 GB SSD, Silver",1599,13.4,512,Intel® Core™ i7,SSD
+197,SAMSUNG,10237023,"SAMSUNG Galaxy Book Go 14"" Laptop - Qualcomm Snapdragon 7C, 128 GB SSD, Mystic Silver",369,14,128,Qualcomm Snapdragon 7C,SSD
+198,HP,10226900,"HP 15s-eq2504sa 15.6"" Laptop - AMD Ryzen 5, 256 GB SSD, Silver",529,15.6,256,AMD Ryzen 5,SSD
+199,HP,10234423,"HP ENVY 17-ch0508na 17.3"" Laptop - Intel® Core™ i7, 1 TB SSD, Silver",1449,17.3,1024,Intel® Core™ i7,SSD
+200,SAMSUNG,10225139,"SAMSUNG Galaxy Book Go LTE 14"" Laptop - Qualcomm Snapdragon 7C, 128 GB SSD, Mystic Silver",399,14,128,Qualcomm Snapdragon 7C,SSD
+201,LENOVO,10227184,"LENOVO IdeaPad 5i 14"" Chromebook - Intel® Core™ i5, 256 GB SSD, Grey",449,14,256,Intel® Core™ i5,SSD
+202,ASUS,10232111,"ASUS CX17 17.3"" Chromebook - Intel® Celeron™, 128 GB eMMC, Silver",329,17.3,128,Intel® Celeron™,eMMC
+203,LENOVO,10227154,"LENOVO IdeaPad 5i 14"" Chromebook - Intel® Pentium® Gold, 128 GB SSD, Grey",299,14,128,Intel® Pentium® Gold,SSD
+204,SAMSUNG,10237010,"SAMSUNG Galaxy Book2 15.6"" Laptop - Intel® Core™ i5, 256 GB SSD, Silver",699,15.6,256,Intel® Core™ i5,SSD
+205,HP,10226939,"HP 14a-na0509sa 14"" Chromebook - Intel® Pentium® Silver, 64 GB eMMC, White",309,14,64,Intel® Pentium® Silver,eMMC
+206,ACER,10226653,"ACER Swift 3 16.1"" Laptop - Intel® Core™ i5, 1 TB SSD, Grey",649,16.1,1024,Intel® Core™ i5,SSD
+207,HUAWEI,10236037,"HUAWEI MateBook D 14"" Laptop - Intel® Core™ i5, 512 GB SSD, Grey",509,14,512,Intel® Core™ i5,SSD
+208,DELL,10230192,"DELL Inspiron 13 5310 13.3"" Laptop - Intel® Core™ i5, 256 GB SSD, Silver",599,13.3,256,Intel® Core™ i5,SSD
+209,ASUS,10225132,"ASUS ZenBook 14 UX5400EA 14"" Laptop - Intel® Core™ i7, 1 TB SSD, Grey",1299,14,1024,Intel® Core™ i7,SSD
+210,ACER,10227187,"ACER Spin 514 14"" 2 in 1 Chromebook - AMD Ryzen 3, 128 GB eMMC, Silver",399,14,128,AMD Ryzen 3,eMMC
+211,LENOVO,10227196,"LENOVO IdeaPad 5i 14"" Chromebook - Intel® Core™ i3, 256 GB SSD, Gold",349,14,256,Intel® Core™ i3,SSD
+212,SAMSUNG,10237770,"SAMSUNG Galaxy Book2 15.6"" Laptop - Intel® Core™ i7, 512 GB SSD, Silver",899,15.6,512,Intel® Core™ i7,SSD
+213,ACER,10227098,"ACER 514 14"" Chromebook - Intel® Pentium® Gold, 128 GB SSD, Grey",299,14,128,Intel® Pentium® Gold,SSD
+214,DELL,10226166,"DELL XPS 17 9710 17"" Laptop - Intel® Core™ i7, 1 TB SSD, Silver",2399,17,1024,Intel® Core™ i7,SSD
+215,ASUS,10234428,"ASUS VivoBook Pro M3500QA 15.6"" Laptop - AMD Ryzen 7, 512 GB SSD, Silver",879,15.6,512,AMD Ryzen 7,SSD
+216,ASUS,10224691,"ASUS ZenBook 13 UX325EA 13.3"" Laptop - Intel® Core™ i5, 512 GB SSD, Grey",749,13.3,512,Intel® Core™ i5,SSD
+217,SAMSUNG,10234854,"SAMSUNG Galaxy Go 14"" Chromebook - Intel® Celeron™, 32 GB eMMC, Silver",299,14,32,Intel® Celeron™,eMMC
+218,HP,10225070,"HP 15s-eq2510sa 15.6"" Laptop - AMD Ryzen 7, 512 GB SSD, Silver",599,15.6,512,AMD Ryzen 7,SSD
+219,ACER,10227113,"ACER Spin 713 13.5"" 2 in 1 Chromebook - Intel® Core™ i5, 256 GB SSD, Grey",649,13.5,256,Intel® Core™ i5,SSD
+220,HUAWEI,10237764,"HUAWEI MateBook 16"" Laptop - AMD Ryzen 7, 512 GB SSD, Grey",949,16,512,AMD Ryzen 7,SSD
+221,HP,10218515,"HP Spectre x360 13-aw2501na 13.3"" 2 in 1 Laptop - Intel® Core™ i7, 1 TB SSD, Silver",1699,13.3,1024,Intel® Core™ i7,SSD
+222,MICROSOFT,10230521,"MICROSOFT 13"" Surface Pro 8 - Intel® Core™ i7, 256 GB SSD, Platinum",1499,13,256,Intel® Core™ i7,SSD
+223,LENOVO,10230797,"LENOVO Yoga 6 13.3"" 2 in 1 Laptop - AMD Ryzen 7, 512 GB SSD, Abyss Blue",799,13.3,512,AMD Ryzen 7,SSD
+224,ASUS,10225131,"ASUS E510MA 15.6"" Laptop - Intel® Celeron®, 64 GB eMMC, Black",239,15.6,64,Intel® Celeron®,eMMC
+225,HP,10229944,"HP x2 11-da0504na 11"" 2 in 1 Chromebook - Qualcomm Snapdragon, 128 GB eMMC, Silver",449,11,128,Qualcomm Snapdragon,eMMC
+226,LENOVO,10228900,"LENOVO IdeaPad 3i 14"" Laptop - Intel® Core™ i5, 256 GB SSD, Blue",549,14,256,Intel® Core™ i5,SSD
+227,SAMSUNG,10237002,"SAMSUNG Galaxy Book2 Pro 360 13.3"" 2 in 1 Laptop - Intel® Core™ i7, 512 GB SSD, Silver",1249,13.3,512,Intel® Core™ i7,SSD
+228,MICROSOFT,10234251,"MICROSOFT 14.4"" Surface Laptop Studio - Intel® Core™ i7, 2 TB SSD, Platinum",2879,14.4,2048,Intel® Core™ i7,SSD
+229,ACER,10225786,"ACER Aspire 3 15.6"" Laptop - Intel® Pentium® Silver, 128 GB SSD, Silver",299,15.6,128,Intel® Pentium® Silver,SSD
+230,DELL,10230714,"DELL Inspiron 13 5310 13.3"" Laptop - Intel® Core™ i7, 512 GB SSD, Silver",799,13.3,512,Intel® Core™ i7,SSD
+231,ASUS,10224914,"ASUS VivoBook X712EA 17.3"" Laptop - Intel® Core™ i5, 512 GB SSD, Silver",619,17.3,512,Intel® Core™ i5,SSD
+232,HP,10229552,"HP x2 11-da0502na 11"" 2 in 1 Chromebook - Qualcomm Snapdragon, 64 GB eMMC, Silver",499,11,64,Qualcomm Snapdragon,eMMC
+233,SAMSUNG,10237747,"SAMSUNG Galaxy Book2 15.6"" Laptop - Intel® Core™ i3, 256 GB SSD, Silver",599,15.6,256,Intel® Core™ i3,SSD
+234,ACER,10229920,"ACER Swift 3 13.5"" Laptop - Intel® Core™ i5, 512 GB SSD, Silver",649,13.5,512,Intel® Core™ i5,SSD
+235,ACER,10227243,"ACER Spin 713 13.5"" 2 in 1 Chromebook - Intel® Core™ i3, 256 GB SSD, Grey",549,13.5,256,Intel® Core™ i3,SSD
+236,LENOVO,10232879,"LENOVO Yoga 7 14"" 2 in 1 Laptop - AMD Ryzen 7, 512 GB SSD, Grey",899,14,512,AMD Ryzen 7,SSD
+237,ASUS,10224710,"ASUS ZenBook Duo UX482EG 14"" Laptop - Intel® Core™ i7, 1 TB SSD, Blue",1799,14,1024,Intel® Core™ i7,SSD
+238,SAMSUNG,10236038,"SAMSUNG Galaxy Book2 360 13.3"" 2 in 1 Laptop - Intel® Core™ i5, 256 GB SSD, Silver",849,13.3,256,Intel® Core™ i5,SSD
+239,LENOVO,10225049,"LENOVO IdeaPad 3i 14"" Laptop - Intel® Pentium® Gold, 128 GB SSD, Blue",329,14,128,Intel® Pentium® Gold,SSD
+240,SAMSUNG,10234857,"SAMSUNG Galaxy Go 14"" Chromebook - Intel® Celeron™, 64 GB eMMC, Silver",399,14,64,Intel® Celeron™,eMMC
+241,HP,10226944,"HP x360 14b-cb0502sa 14"" 2 in 1 Chromebook - Intel® Pentium® Silver, 128 GB eMMC, Silver",449,14,128,Intel® Pentium® Silver,eMMC
+242,DELL,10226156,"DELL XPS 15 9510 15.6"" Laptop - Intel® Core™ i9, 1 TB SSD, Silver",2599,15.6,1024,Intel® Core™ i9,SSD
+243,HP,10234095,"HP ENVY 13-ba1559na 13.3"" Laptop - Intel® Core™ i5, 512 GB SSD, Silver",749,13.3,512,Intel® Core™ i5,SSD
+244,HP,10225076,"HP Stream 14s-dq0505sa 14"" Laptop - Intel® Celeron®, 64 GB eMMC, Blue",259,14,64,Intel® Celeron®,eMMC
+245,LENOVO,10225054,"LENOVO Yoga 6 13.3"" 2 in 1 Laptop - AMD Ryzen 5, 256 GB SSD, Abyss Blue Fabric",699,13.3,256,AMD Ryzen 5,SSD
+246,HP,10218197,"HP Pavilion 14-dv0602sa 14"" Laptop - Intel® Core™ i5, 512 GB SSD, White & Rose Gold",599,14,512,Intel® Core™ i5,SSD
+247,ACER,10220854,"ACER Aspire 1 14"" Laptop - Intel® Celeron™, 64 GB eMMC, Blue",249,14,64,Intel® Celeron™,eMMC
+248,HP,10226054,"HP Pavilion Aero 13-be0506sa 13.3"" Laptop - AMD Ryzen 7, 512 GB SSD, Silver",749,13.3,512,AMD Ryzen 7,SSD
+249,LENOVO,10207549,"LENOVO IdeaPad 3i 14"" Chromebook - Intel® Celeron®, 64 GB eMMC, Blue",249,14,64,Intel® Celeron®,eMMC
+250,MICROSOFT,10221332,"MICROSOFT 15"" Surface Laptop 4 - Intel® Core™ i7, 1 TB SSD, Matte Black",2039,15,1024,Intel® Core™ i7,SSD
+251,SAMSUNG,10236963,"SAMSUNG Galaxy Book2 Pro 15.6"" Laptop - Intel® Core™ i7, 512 GB SSD, Silver",1249,15.6,512,Intel® Core™ i7,SSD
+252,ACER,10225777,"ACER Swift 1 14"" Laptop - Intel® Pentium™, 128 GB SSD, Silver",299,14,128,Intel® Pentium™,SSD
+253,VENTURER,10220627,"VENTURER Europa Plus 11"" Laptop - Intel® Celeron™, 64 GB SSD, Black",189,11,64,Intel® Celeron™,SSD
+254,SAMSUNG,10236981,"SAMSUNG Galaxy Book2 Pro 360 15.6"" 2 in 1 Laptop - Intel® Core™ i5, 256 GB SSD, Silver",1049,15.6,256,Intel® Core™ i5,SSD
+255,AVITA,10220625,"AVITA Pura 15.6"" Laptop - AMD Ryzen 5, 256 GB SSD, Metallic Black",499,15.6,256,AMD Ryzen 5,SSD
+256,VENTURER,10220628,"VENTURER Europa 14 Plus 14"" Laptop - Intel® Celeron™, 64 GB SSD, Black",219,14,64,Intel® Celeron™,SSD
+257,MICROSOFT,10234255,"MICROSOFT 14.4"" Surface Laptop Studio - Intel® Core™ i7, 1 TB SSD, Platinum",2479,14.4,1024,Intel® Core™ i7,SSD
+258,SAMSUNG,10236043,"SAMSUNG Galaxy Book2 360 13.3"" 2 in 1 Laptop - Intel® Core™ i7, 512 GB SSD, Silver",1149,13.3,512,Intel® Core™ i7,SSD
+259,HP,10229528,"HP Pavilion 14-ec0531sa 14"" Laptop - AMD Ryzen 7, 512 GB SSD, Blue",699,14,512,AMD Ryzen 7,SSD
+260,SAMSUNG,10234811,"SAMSUNG Galaxy Go LTE 14"" Chromebook - Intel® Celeron™, 64 GB eMMC, Silver",399,14,64,Intel® Celeron™,eMMC
+261,ASUS,10232109,"ASUS CX17 17.3"" Chromebook - Intel® Pentium®, 128 GB eMMC, Silver",429,17.3,128,Intel® Pentium®,eMMC
+262,SAMSUNG,10237750,"SAMSUNG Galaxy Book2 15.6"" Laptop - Intel® Core™ i5, 512 GB SSD, Silver",799,15.6,512,Intel® Core™ i5,SSD
+263,ASUS,10231083,"ASUS CX9 14"" Chromebook - Intel® Core™ i7, 512 GB SSD, Black",1299,14,512,Intel® Core™ i7,SSD
+264,ACER,10227217,"ACER 317 17.3"" Chromebook - Intel® Celeron®, 64 GB eMMC, Silver",349,17.3,64,Intel® Celeron®,eMMC
+265,MICROSOFT,10234250,"MICROSOFT 14.4"" Surface Laptop Studio - Intel® Core™ i5, 256 GB SSD, Platinum",1449,14.4,256,Intel® Core™ i5,SSD
+266,HP,10218519,"HP ENVY 13-ba1561sa 13.3"" Laptop - Intel® Core™ i5, 512 GB SSD, Silver",899,13.3,512,Intel® Core™ i5,SSD
+267,ASUS,10231081,"ASUS CX15 15.6"" Chromebook - Intel® Pentium®, 64 GB eMMC, Silver",249,15.6,64,Intel® Pentium®,eMMC
+268,SAMSUNG,10230705,"SAMSUNG Galaxy Book Pro 360 5G 13.3"" 2 in 1 Laptop - Intel® Core™ i5, 256 GB SSD, Mystic Silver",1199,13.3,256,Intel® Core™ i5,SSD
+269,AVITA,10215492,"AVITA Liber V 14"" Laptop - AMD Ryzen 3, 256 GB SSD, Black",399,14,256,AMD Ryzen 3,SSD
+270,HP,10225081,"HP Stream 14s-dq0506sa 14"" Laptop - Intel® Celeron®, 64 GB eMMC, White",259,14,64,Intel® Celeron®,eMMC
+271,ACER,10224419,"ACER Aspire 5 A515-45 15.6"" Laptop - AMD Ryzen 3, 128 GB SSD, Black",459,15.6,128,AMD Ryzen 3,SSD
+272,MICROSOFT,10234253,"MICROSOFT 14.4"" Surface Laptop Studio - Intel® Core™ i5, 512 GB SSD, Platinum",1649,14.4,512,Intel® Core™ i5,SSD
+273,ACER,10224418,"ACER Aspire 3 15.6"" Laptop - Intel® Core™ i7, 512 GB SSD, Silver",659,15.6,512,Intel® Core™ i7,SSD
+274,LENOVO,10229554,"LENOVO IdeaPad 3i 15.6"" Chromebook - Intel® Pentium®, 128 GB eMMC, Grey",329,15.6,128,Intel® Pentium®,eMMC
+275,SAMSUNG,10224690,"SAMSUNG Galaxy Book LTE 15.6"" Laptop - Intel® Core™ i5, 256 GB SSD, Mystic Silver",799,15.6,256,Intel® Core™ i5,SSD
+276,HP,10235996,"HP Stream 11-ak0515sa 11"" Laptop - Intel® Celeron™, 64 GB eMMC, White",219,11,64,Intel® Celeron™,eMMC
+277,SAMSUNG,10236039,"SAMSUNG Galaxy Book2 Pro 360 13.3"" 2 in 1 Laptop - Intel® Core™ i5, 256 GB SSD, Silver",949,13.3,256,Intel® Core™ i5,SSD
+278,SAMSUNG,10236044,"SAMSUNG Galaxy Book2 Pro 15.6"" Laptop - Intel® Core™ i5, 256 GB SSD, Dark Grey",1139,15.6,256,Intel® Core™ i5,SSD
+279,AVITA,10215493,"AVITA Liber V 14"" Laptop - AMD Ryzen 5, 256 GB SSD, Black",549,14,256,AMD Ryzen 5,SSD
+280,SAMSUNG,10237008,"SAMSUNG Galaxy Book2 Pro 15.6"" Laptop - Intel® Core™ i5, 256 GB SSD, Silver",949,15.6,256,Intel® Core™ i5,SSD
+281,SAMSUNG,10236046,"SAMSUNG Galaxy Book2 Pro 360 13.3"" 2 in 1 Laptop - Intel® Core™ i7, 256 GB SSD, Silver",1049,13.3,256,Intel® Core™ i7,SSD
+282,SAMSUNG,10236008,"SAMSUNG Galaxy Book2 Pro 13.3"" Laptop - Intel® Core™ i5, 256 GB SSD, Silver",849,13.3,256,Intel® Core™ i5,SSD
+283,AVITA,10215491,"AVITA Admiror 14"" Laptop - AMD Ryzen 7, 512 GB SSD, Copper",569,14,512,AMD Ryzen 7,SSD
+284,DYNABOOK,10235541,"DYNABOOK Toshiba Satellite Pro C40 14"" Laptop - Intel® Core™ i5, 256 GB SSD, Dark Blue",599,14,256,Intel® Core™ i5,SSD
+285,AVITA,10220623,"AVITA Pura 14"" Laptop - AMD Ryzen 5, 256 GB SSD, Rose Gold",489,14,256,AMD Ryzen 5,SSD
+286,AVITA,10223557,"AVITA Pura 14"" Laptop - AMD Ryzen 5, 256 GB SSD, Red",419,14,256,AMD Ryzen 5,SSD
+287,ASUS,10213995,"ASUS Zenbook S Flip UX371EA 13.3"" 2 in 1 Laptop - Intel® Core™ i7, 1 TB SSD, Black",1599,13.3,1024,Intel® Core™ i7,SSD
+288,DYNABOOK,10235540,"DYNABOOK Toshiba Satellite Pro C40 14"" Laptop - Intel® Core™ i3, 256 GB SSD, Dark Blue",551,14,256,Intel® Core™ i3,SSD
+289,HP,10235999,"HP Pavilion 15-eh1502sa 15.6"" Laptop - AMD Ryzen 3, 256 GB SSD, Blue",499,15.6,256,AMD Ryzen 3,SSD
+290,AVITA,10220790,"AVITA Liber V 14"" Laptop - AMD Ryzen 5, 256 GB SSD, Gold & Patterned",559,14,256,AMD Ryzen 5,SSD
+291,HONOR,10238290,"HONOR MagicBook 16.1"" Laptop - AMD Ryzen 5, 512 GB SSD, Grey",849.99,16.1,512,AMD Ryzen 5,SSD
+292,AVITA,10215490,"AVITA Admiror 14"" Laptop - AMD Ryzen 7, 512 GB SSD, Brown",599,14,512,AMD Ryzen 7,SSD
+293,AVITA,10220626,"AVITA Liber V 14"" Laptop - AMD Ryzen 5, 128 GB SSD, Red",539,14,128,AMD Ryzen 5,SSD
+294,DYNABOOK,10235542,"DYNABOOK Toshiba Portégé X30W-J-12V 13.3"" 2 in 1 Laptop - Intel® Core™ i5, 256 GB SSD, Blue",1099,13.3,256,Intel® Core™ i5,SSD
+295,AVITA,10220624,"AVITA Pura 15.6"" Laptop - AMD Ryzen 5, 256 GB SSD, Silver Grey",499,15.6,256,AMD Ryzen 5,SSD
+296,AVITA,10215487,"AVITA Pura 14"" Laptop - AMD Ryzen 5, 256 GB SSD, Silver",499,14,256,AMD Ryzen 5,SSD
+297,ASUS,10234435,"ASUS VivoBook Pro N7600PC-L2175W 16"" Laptop - Intel® Core™ i7, 512 GB SSD, Silver",1399,16,512,Intel® Core™ i7,SSD
+298,ACER,10234111,"ACER 514 14"" Chromebook -  Intel® Core™ i3, 128 GB SSD, Grey",399,14,128, Intel® Core™ i3,SSD
+299,HONOR,10238289,"HONOR MagicBook X14 14"" Laptop - Intel® Core™ i5, 512 GB SSD, Grey",649.99,14,512,Intel® Core™ i5,SSD
+300,HONOR,10238288,"HONOR MagicBook 15.6"" Laptop - AMD Ryzen 5, 512 GB SSD, Grey",649.99,15.6,512,AMD Ryzen 5,SSD
+301,ASUS,10234430,"ASUS ZenBook 13 UX325EA 13.3"" Laptop - Intel® Core™ i7, 512 GB SSD, Grey",1199,13.3,512,Intel® Core™ i7,SSD
+302,LENOVO,10224414,"LENOVO IdeaPad 3i 14"" Laptop - Intel® Core™ i3, 128 GB SSD, Blue",399,14,128,Intel® Core™ i3,SSD
+303,APPLE,10216300,"APPLE MacBook Air 13.3"" (2020) - M1, 256 GB SSD, Silver",909,13.3,256,M1,SSD
+304,DELL,10230195,"DELL Inspiron 15 5518 15.6"" Laptop - Intel® Core™ i7, 512 GB SSD, Silver",899,15.6,512,Intel® Core™ i7,SSD
+305,APPLE,10216302,"APPLE MacBook Air 13.3"" (2020) - M1, 256 GB SSD, Gold",949,13.3,256,M1,SSD
+306,LG,10233474,"LG GRAM 17Z90P 17"" Laptop - Intel® Core™ i7, 1 TB SSD, Black",1149,17,1024,Intel® Core™ i7,SSD
+307,APPLE,10216299,"APPLE MacBook Air 13.3"" (2020) - M1, 512 GB SSD, Space Grey",1117,13.3,512,M1,SSD
+308,ACER,10230157,"ACER Swift 3 14"" Laptop - Intel® Core™ i5, 1 TB SSD, Silver",599,14,1024,Intel® Core™ i5,SSD
+309,DELL,10230196,"DELL Inspiron 15 5518 15.6"" Laptop - Intel® Core™ i5, 256 GB SSD, Silver",649,15.6,256,Intel® Core™ i5,SSD
+310,LENOVO,10228899,"LENOVO IdeaPad 3i 15.6"" Laptop - Intel® Celeron®, 128 GB SSD, Blue",279,15.6,128,Intel® Celeron®,SSD
+311,ACER,10230153,"ACER Swift 3 14"" Laptop - Intel® Core™ i5, 512 GB SSD, Silver",549,14,512,Intel® Core™ i5,SSD
+312,DELL,10230143,"DELL Inspiron 14 5410 14"" 2 in 1 Laptop - Intel® Core™ i5, 256 GB SSD, Silver",619,14,256,Intel® Core™ i5,SSD
+313,APPLE,10216315,"APPLE MacBook Pro 16"" (2021) - M1 Max, 1 TB SSD, Space Grey",3299,16,1024,M1 Max,SSD
+314,LENOVO,10233246,"LENOVO IdeaPad 5 Pro 16"" Laptop - AMD Ryzen 7, 512 GB SSD, Grey",899,16,512,AMD Ryzen 7,SSD
+315,HP,10230080,"HP ENVY x360 15.6"" 2 in 1 Laptop - AMD Ryzen 7, 512 GB SSD, Black",999,15.6,512,AMD Ryzen 7,SSD
+316,APPLE,10216318,"APPLE MacBook Pro 16"" (2021) - M1 Max, 1 TB SSD, Silver",3299,16,1024,M1 Max,SSD
+317,HP,10226010,"HP 17-cn0528sa 17.3"" Laptop - Intel® Pentium® Gold, 128 GB SSD, Black",369,17.3,128,Intel® Pentium® Gold,SSD
+318,ACER,10217139,"ACER Swift 1 14"" Laptop - Intel® Pentium™, 256 GB SSD, Silver",399,14,256,Intel® Pentium™,SSD
+319,ACER,10226584,"ACER Aspire 5 A517-52G 17.3"" Laptop - Intel® Core™ i7, 512 GB SSD, Silver",899,17.3,512,Intel® Core™ i7,SSD
+320,ASUS,10231211,"ASUS VivoBook Pro N7600PC-L2010W 16"" Laptop - Intel® Core™ i7, 1 TB SSD, Silver",1199,16,1024,Intel® Core™ i7,SSD
+321,LG,10233469,"LG GRAM 16Z90P 16"" Laptop - Intel® Core™ i5, 512 GB SSD, Silver",799,16,512,Intel® Core™ i5,SSD
+322,ACER,10226598,"ACER Aspire 5 A517-52G 17.3"" Laptop - Intel® Core™ i5, 512 GB SSD, Silver",799,17.3,512,Intel® Core™ i5,SSD
+323,ACER,10224421,"ACER Aspire 5 A515-45 15.6"" Laptop - AMD Ryzen 5, 512 GB SSD, Black",549,15.6,512,AMD Ryzen 5,SSD
+324,ENTITY,10227014,"ENTITY Rove 14.1"" Laptop Bundle - Intel® Celeron®, 64 GB SSD, Grey",179,14.1,64,Intel® Celeron®,SSD
+325,ACER,10224405,"ACER Aspire 5 A515-45 15.6"" Laptop - AMD Ryzen 7, 512 GB SSD, Black",649,15.6,512,AMD Ryzen 7,SSD
+326,LG,10233471,"LG GRAM 16Z90P 16"" Laptop - Intel® Core™ i7, 1 TB SSD, Black",1499,16,1024,Intel® Core™ i7,SSD
+327,ACER,10229921,"ACER Swift 3 13.5"" Laptop - Intel® Core™ i7, 512 GB SSD, Silver",729,13.5,512,Intel® Core™ i7,SSD
+328,MICROSOFT,10230523,"MICROSOFT 13"" Surface Pro 8 - Intel® Core™ i7, 512 GB SSD, Platinum",1779,13,512,Intel® Core™ i7,SSD
+329,ACER,10226971,"ACER Aspire 3 15.6"" Laptop - Intel® Core™ i3, 128 GB SSD, Silver",379,15.6,128,Intel® Core™ i3,SSD
+330,VENTURER,10220629,"VENTURER Europa Plus 14"" Laptop - Intel® Celeron™, 64 GB SSD, Rose Gold",229,14,64,Intel® Celeron™,SSD
+331,ACER,10229052,"ACER ConceptD 3 Ezel 14"" 2 in 1 Laptop - Intel® Core™ i7, 512 GB SSD, White",1799.99,14,512,Intel® Core™ i7,SSD
+332,ACER,10229051,"ACER ConceptD 3 14"" Laptop - Intel® Core™ i7, 512 GB SSD, White",1499.99,14,512,Intel® Core™ i7,SSD
+333,VENTURER,10215488,"VENTURER Europa 11 LT 11.6"" Laptop - Intel® Celeron™, 64 GB SSD, Black",189,11.6,64,Intel® Celeron™,SSD
+334,DYNABOOK,10235543,"DYNABOOK Toshiba Portégé X30W-J-130 13.3"" 2 in 1 Laptop - Intel® Core™ i7, 512 GB SSD, Blue",1199,13.3,512,Intel® Core™ i7,SSD
+335,MICROSOFT,10201357,"MICROSOFT 13.5"" Surface 3 Laptop - Intel® Core™ i7, 256 GB SSD, Black",1579,13.5,256,Intel® Core™ i7,SSD
+336,VENTURER,10215489,"VENTURER Europa 14 LT 14"" Laptop - Intel® Celeron™, 64 GB SSD, Black",220,14,64,Intel® Celeron™,SSD
